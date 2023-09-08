@@ -67,7 +67,7 @@ def get_attractions_for_traveler(traveler):
 
 
 
-
+#the aplication of the code 
 
 
 #testing function 1
